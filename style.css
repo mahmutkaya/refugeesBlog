@@ -1,0 +1,252 @@
+body{
+    background-color: #641e16;
+    
+     
+  }
+  header{
+    width: 962px;
+    height: auto;
+    background-color: #34495e;
+    color: #f2f3f4;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    border-top: solid black 2px;
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+    font-family: 'Indie Flower';
+       
+    }
+  
+  nav ul {
+    display: inline-block;
+     border-radius: 18px;
+      }
+  
+  nav {
+    width: 962px;
+    height: 50px;
+    text-align: center;
+    background-color: #34495e;
+    margin-bottom: 6px;
+    border-bottom: solid black 2px;
+    border-left: solid black 2px;
+    border-right: solid black 2px;
+   
+    }
+  nav li {
+    display: inline-block;
+    font-family: 'Lato';
+   
+  }
+  nav li a{
+    color: #aeb6bf;
+    margin-top: 26px;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+  
+  nav li a:hover {
+    color: #58d68d;
+   }
+  
+  .social-media {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-radius: 18px;
+    text-align: center;
+    background-color: #7f8c8d;
+    margin: 16px;
+   
+  }
+  
+  .social-media a{
+    margin-right: 20px;
+    
+  }
+  
+  aside{
+    width: 326px;
+    height: auto;
+    background-color: #641e16;
+    float: right;
+    clear: none;
+    
+  }
+  
+  .archive h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-top-style: double;
+    border-bottom-style: double;
+    width: 260px;
+    font-family: 'Spectral SC';
+  }
+  
+  .archive{
+    margin: 6px;
+    border-top-style: solid;
+    border-radius: 18px;
+    background-color: #7f8c8d;
+  
+  }
+  
+  .blogs-aside {
+    height: 1000px;
+    overflow: auto;
+    overflow-x: hidden;
+  }
+  
+  footer{
+    width: 964px;
+    height: auto;
+    background-color: #34495e;
+    border: solid black 2px;
+    margin: 16px 0px 16px 0px;
+  }
+  
+  footer img {
+    display: inline-block;
+    margin: 0px 20px 0px 20px;
+        
+  }
+  
+  #anadiv{
+    width: 964px;
+    height: auto;
+    margin: auto;
+    background-color: #641e16;
+    
+      
+  }
+  .clear{
+    clear: both;
+  }
+  
+  .news {
+    background-color: #f6ddcc;
+    width: 634px;
+    height: 2640px;
+    float: left;
+    border: solid black 2px;
+    border-radius: 18px;
+    overflow: auto;
+    font-size: 16px;
+    font-family: sans-serif;
+    
+  }
+  
+  h6{
+    font-size: 16px;
+    
+  }
+  
+  h2{
+    font-size: 20px;
+  }
+  p#sag {
+    float: right;
+    
+  }
+  
+  #Pavel {
+    font-style: italic;
+    text-align: center;
+  }
+  #Pavel-pic {
+    position: relative;
+    margin-left: 30px;
+    padding: 6px;
+  }
+  #Oleksi-pic, #ares-pic, #Aristedes-pic {
+    position: relative;
+    float: right;
+    margin: 8px;
+    padding: 8px;
+    clear: both;
+  }
+  
+  #Aristedes-pic {
+    padding: 40px;
+    margin-bottom: 50px;
+   
+  }
+  #Pedro, #gatto {
+    width: auto;
+    margin-left: 30px;
+    font-style: italic;
+    float: left;
+  }
+  #Pedro-pic, #gatto-pic{
+    position: relative;
+    float: left;
+    width: 360px;
+    padding: 8px;
+    }
+  
+  p, h1, h2, h3, h4, h5, h6 {
+     text-indent: 40px;
+     padding: 8px;
+    margin: auto;
+  }
+  
+  #ares, #Aristedes, #Oleksi {
+    float: right;
+    font-style: italic;
+    margin-right: 40px; 
+  }
+  
+  .post {
+    margin: 50px 0px 10px 30px;
+    width: 400px;
+    text-align: left;
+  }
+  
+  .post-archive {
+    border-top-style: double;
+      
+  }
+  
+  .photo-galery {
+    height: 1400px;
+    overflow: auto;
+    
+    
+  }
+  .photo-galery img {
+    width: 280px;
+    margin-left: 12px;
+    margin-bottom: 8px;
+    border: solid black 2px;
+  }
+  
+  .quote  a:visited {
+    color: #34495e;
+  }
+  
+  .quote a:hover {
+    color: rgb(176, 58, 46);
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  .res{
+    font-family: fantasy;
+  
+  }
+  
+  .win, .ment, .spc {
+    width: 140px;
+    margin-left: 10px;
+    float: left;
+    position: relative;
+  }
+  
+  .jury {
+    width: 140px;
+    position: relative;
+   
+  }
+  
